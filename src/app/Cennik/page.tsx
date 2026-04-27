@@ -1,92 +1,92 @@
 export default function Home(){
     const silownia = [{
         rodzaj: "Jednorazowe wejście",
-        cena: "40 zł"
+        cena: "50 zł"
     },{
         rodzaj: "Open",
-        cena: "210 zł"
+        cena: "220 zł"
     },{
         rodzaj: "6 miesięczny",
-        cena: "1200 zł"
+        cena: "1220 zł"
     },{
         rodzaj: "12 miesięczny",
-        cena: "2280 zł"
+        cena: "2300 zł"
     },{
         rodzaj: "Morning",
-        cena: "180 zł"
-    },{
-        rodzaj: "Student",
-        cena: "180 zł"
-    },{
-        rodzaj: "Junior",
-        cena: "170 zł"
-    },{
-        rodzaj: "Senior",
-        cena: "160 zł"
-    },    {
-        rodzaj: "Karnet 12 wejść",
         cena: "190 zł"
     },{
+        rodzaj: "Student",
+        cena: "190 zł"
+    },{
+        rodzaj: "Junior",
+        cena: "180 zł"
+    },{
+        rodzaj: "Senior",
+        cena: "170 zł"
+    },    {
+        rodzaj: "Karnet 12 wejść",
+        cena: "200 zł"
+    },{
         rodzaj: "Karnet 8 wejść",
-        cena: "150 zł"
+        cena: "160 zł"
     },{
         rodzaj: "Karnet 4 wejścia",
-        cena: "110 zł"
+        cena: "120 zł"
     },    {
         rodzaj: "Pakiet para",
-        cena: "400 zł"
+        cena: "420 zł"
     },{
         rodzaj: "Pakiet rodzinny 1+1",
-        cena: "360 zł"
+        cena: "380 zł"
     }
 
 ]
 
     const treningi = [    {
         rodzaj: "Trening personalny 1 osoba - pojedynczy",
-        cena: "140 zł"
+        cena: "150 zł"
     },{
         rodzaj: "Trening personalny 1 osoba - 4 wejścia",
-        cena: "440 zł"
+        cena: "460 zł"
     },{
         rodzaj: "Trening personalny 1 osoba - 8 wejść",
-        cena: "800 zł"
+        cena: "840 zł"
     },{
         rodzaj: "Trening personalny 1 osoba - 12 wejść",
-        cena: "1140 zł"
+        cena: "1200 zł"
     },    {
         rodzaj: "Trening personalny 2 osoby - pojedynczy",
-        cena: "200 zł"
+        cena: "220 zł"
     },{
         rodzaj: "Trening personalny 2 osoby - 4 wejścia",
-        cena: "300 zł/osoba"
+        cena: "320 zł/osoba"
     },{
         rodzaj: "Trening personalny 2 osoby - 8 wejść",
-        cena: "560 zł/osoba"
+        cena: "600 zł/osoba"
     }
 ]
 
     const grupowe = [    {
         rodzaj: "Zajęcia grupowe - 4 wejścia",
-        cena: "110 zł"
+        cena: "130 zł"
     },{
         rodzaj: "Zajęcia grupowe - 8 wejść",
-        cena: "180 zł"
+        cena: "200 zł"
     },{
         rodzaj: "Zajęcia grupowe - 12 wejść",
-        cena: "240 zł"
+        cena: "260 zł"
     },{
         rodzaj: "Zajęcia grupowe - open z siłownią",
-        cena: "300 zł"
+        cena: "320 zł"
     }
 ]
 
     const boks = [    {
         rodzaj: "Boks - pojedynczy trening",
-        cena: "100 zł"
+        cena: "120 zł"
     },{
         rodzaj: "Boks - pakiet 8 treningów",
-        cena: "760 zł"
+        cena: "800 zł"
     }
 ]
 

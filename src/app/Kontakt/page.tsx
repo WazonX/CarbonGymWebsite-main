@@ -33,7 +33,7 @@ export default function Home(){
                         W sobotę: 
                     </div>
                     <div className="col-12">
-                        8:00 - 14:00
+                        8:00 - 17:00
                     </div>
                 </div>
                 <div className="row mt-3">
@@ -41,7 +41,7 @@ export default function Home(){
                         W niedzielę:  
                     </div>
                     <div className="col-12">
-                        8:00 - 12:00
+                        8:00 - 15:00
                     </div>
                 </div>
             </h2>
